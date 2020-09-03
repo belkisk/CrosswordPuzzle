@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">KARE BULMACAYA HOŞGELDİNİZ!</string>
+    <string name="select">ÇÖZMEK İSTEDİĞİNİZ BULMACANIN BOYUTUNU SEÇİNİZ(2-10):</string>
+    <string name="app_name">Kare Bulmaca</string>
+    <string name="leftToRight">SOLDAN SAĞA</string>
+    <string name="topToBottom">YUKARIDAN AŞAĞIYA</string>
+    <string name="bitir">BİTİR</string>
+	<color name="white">#FFFFFF</color>
+	<color name="yellow">#fbf2a3</color>
+	
+</resources>
